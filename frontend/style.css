@@ -1,0 +1,16 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+#current-data {
+    font-size: 3rem;
+    margin-top: 20px;
+}
+
+#measurement-time {
+    margin-top: 10px;
+}
